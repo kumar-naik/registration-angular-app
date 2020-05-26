@@ -7,7 +7,7 @@ import {Router} from "@angular/router";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular8-demo';
+  title = 'registration-angular-app';
   show: boolean = true;
 
   constructor(private router: Router){}
